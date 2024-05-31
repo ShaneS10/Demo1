@@ -8,4 +8,4 @@ print('Value of y: ',y)
 print(y)
 print(x)
 x+y
-print(x+y)
+print("After swapping of ",x," and ",y," is ",x+y)
